@@ -89,8 +89,12 @@ Keep the table design strictly in HTML for simplicity.
 </body>
 </html>
 ```
+## CSS code
 
 ## Output:
+### Before Style
 ![alt text](<Screenshot 2025-07-07 144613.png>)
+### After Style
+![alt text](<Screenshot 2025-07-08 144119.png>)
 ## Result:
 A structured HTML table that displays product-related information, including product names, prices, and descriptions, useful for catalogs, listings, or e-commerce prototypes is created successfully.
